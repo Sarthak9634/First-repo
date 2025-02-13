@@ -19,7 +19,7 @@ body {
     min-height: 100vh;
     padding: 50px;
     background-image: url(https://i.pinimg.com/736x/dc/9e/b9/dc9eb93bac77b10e481ad782ed28e7be.jpg);
-    background-size: contain;
+    background-size: cover;
 
 }
 
